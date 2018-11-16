@@ -1,0 +1,33 @@
+---
+title: "Seminar Report 2"
+author: "Lynette Sequeira"
+date: "November 15, 2018"
+output: html_document
+---
+
+## Seminar Report 2
+
+### Seminar Speaker's Name, Professional Title, & Affiliation
+
+#### This seminar was entitled: Female Bones and Behaviors Controlled by Sex-Dependent Hypothalamic Nodes. The speaker's name is Dr. Holly A. Ingraham who is the Professor and Associate Vice Chair, Cellular and Molecular Pharmacology, Herzstein Distinguished Investigator
+
+### Summary of the seminar, including, for example
+
+#### The overarching research topic of this seminar was to evaluate the effects of estrogen signaling on metabolism and bone mineral density. Dr. Ingraham combines a great deal of different techniques, but some of the most notable intersections that I noticed she utilized includes a genetic approach with mouse models. She has considered various "mutants" and has developed one that is of particular interest and has previously shown success - called the Esr1 (Nkx2-Cre). She began by discussing different methods to quantify her results. Some included echo-MRI (which measures lean and fat mass, this has the benefit that she doesn't have to put the mice to sleep), other lab members have used DEXA (this gives three things - lean mass, fat mass, and bone mineral density), and finally a three-dimensional micro CT (this gives a three-dimentional view of the distal femur). Of note, Dr. Ingraham focuses on the trabecular bone of the distal femur because this is the bone most affected in osteoporosis. 
+
+#### To test her hypothesis, she put her mutant into the system and found that the bone was denser and thicker (there was a notably prominent increase in density of L5). Importantly, this increase in bone density and mass was seen even with long periods of time - even as the mice got older, the mutant mice consistently showed increased bone density and mass. This is extremely important because bone loss is a particular issue with increasing age (e.g. with osteoporosis). The fact that this mutant shows consistsent results over time indicates that this is a promising intervention that could be applied to some of the clinical realms that we see today. 
+
+#### Other tests that Dr. Ingraham used include 2 classic tests that determine bone STRENGTH. These include the three-point bone test and the crush test. At 33 weeks old (which, per Dr. Ingraham, is pretty old in the lifetime of a mouse), mutants are significantly stronger. This result indicates the the mutant bones not only have an increase in the amount of bone butadditionally an increase in the strength of the bone. 
+
+#### Another test that Dr. Ingraham used was a RNA sequencing to establish that there was an increase in KISS1peptide. The KISS1 transcript i s a protein that controls puberty in both males and females. 
+
+#### Finally, Dr. Ingraham used parabiosis which she described as a "crude surgery" that allowed her to compare a fusion of wild type to wild type and wild type to mutant. Here, she saw an increase in bone mass with the inclusion of the mutant. 
+
+#### Conclusion: Dr. Ingraham's research is extremely relevant because it investigates central estrogen signalling which is not only important for the orchestration of energy allocation but is furthermore important to determine if this signalling  can be exploited to address age-related bone loss. 
+
+#### Finally, I thought that it was really inspiring that Dr. Ingraham spoke on  diversity at the end of the seminar. This is a topic that I have not ever previously hear discussed in a seminar or class (unless that topic was explicitly dedicated to diversity), but one that is extremely important to me, and I think that this is something that is imperative for all researchers to address. All fields can immensely benefit from diversity, and all talks bear some relevance to diversity; thus, I think that her note on diversity at the end was not only relevant, but something I would like to apply to my future research endeavors/presentations. 
+
+### ???Two questions that the student would like to ask the speaker about his/her research
+#### What are some side effects that would come along with altering estrogen signalling? We frequently hear about "hormone-imbalances" - how would adjusting estrogen signalling for one purpose affect the signalling for other purposes?
+#### What are ways that diversity has played a role in improving your research endeavors, in terms of providing new perspectives?
+
